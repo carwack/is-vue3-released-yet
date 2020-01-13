@@ -3,7 +3,7 @@
     <img alt="Vue logo" src="./assets/logo.png">
     <h2 class="title">Is Vue3 released yet?</h2>
     <h2 class="subtitle">No, not yet!</h2>
-    <h3 class="content">Due March</h3>
+    <h3 class="content">Around March 🤞</h3>
     <footer>
       <p>Please make this better and <a href="https://github.com/carwack/is-vue3-released-yet">fork it</a>.</p>
     </footer>
