@@ -1,4 +1,4 @@
-# is-vuejs-3-released-yet
+# is-vue3-released-yet
 
 ## Project setup
 ```
