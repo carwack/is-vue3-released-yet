@@ -31,7 +31,10 @@ html, body {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  background-color: crimson; 
+  background: #41B883;
+  background: -webkit-linear-gradient(bottom, #FCF6EA, #41B883);
+  background: -o-linear-gradient(bottom, #FCF6EA, #41B883);
+  background: linear-gradient(to top, #FCF6EA, #41B883);
   height: 100vh;
   width: 100vw;
   align-items: stretch;
@@ -45,10 +48,15 @@ html, body {
     padding: 3rem 1.5rem;
     align-items: center;
     display: flex;
+    justify-content: center;
     .content-wrapper {
       text-align: center;
-      flex-grow: 1;
+      flex-grow: 0;
       flex-shrink: 1;
+      padding: 20px;
+      background-color: #F8F9FA;
+      border-radius: 8px;
+      box-shadow: 7px 7px 10px 0px crimson, 0 6px 6px;
       .title {
         font-size: 2rem;
       }
