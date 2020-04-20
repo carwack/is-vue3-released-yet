@@ -6,7 +6,7 @@
         <h2 class="title">Is Vue3 released yet?</h2>
         <h2 class="subtitle">Beta is released 🎉</h2>
         <h3 class="content">
-          <a href="https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1">GitHub - Vue 3.0.0-beta.1</a>
+          <a href="https://github.com/vuejs/vue-next/releases/">GitHub - Vue 3.0.0</a>
         </h3>
       </div>
     </div>
