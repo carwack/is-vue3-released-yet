@@ -4,8 +4,10 @@
       <div class="content-wrapper">
         <img alt="Vue logo" src="./assets/logo.png">
         <h2 class="title">Is Vue3 released yet?</h2>
-        <h2 class="subtitle">No, not yet! 😔</h2>
-        <h3 class="content">🤞 Summer 🏝</h3>
+        <h2 class="subtitle">Beta is released 🎉</h2>
+        <h3 class="content">
+          <a href="https://github.com/vuejs/vue-next/releases/tag/v3.0.0-beta.1">GitHub - Vue 3.0.0-beta.1</a>
+        </h3>
       </div>
     </div>
     <footer>
